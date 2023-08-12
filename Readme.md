@@ -30,6 +30,10 @@ DocTalk is a versatile application that enables users to easily convert differen
 
 4. **Access the App:** Open your web browser and go to `http://localhost:8501`.
 
+
+
+
+
 ## Usage
 
 1. **Upload a Document:** Use the provided file uploader to upload documents in supported formats.
@@ -38,6 +42,7 @@ DocTalk is a versatile application that enables users to easily convert differen
 4. **Download Outputs:** Download extracted text and audio files for offline access using the provided buttons.
 
 ## Contributions
+file:///home/manav/Pictures/Screenshots/Screenshot%20from%202023-08-12%2022-43-39.png
 
 Contributions to DocTalk are welcome! If you find issues or have enhancements to suggest, feel free to open issues or pull requests.
 
@@ -51,4 +56,4 @@ DocTalk is built upon the contributions of various open-source libraries, includ
 
 ---
 
-Created by [Your Name](https://github.com/your-username)
+Created by [Your Name](https://github.com/manavmalhotra123)
